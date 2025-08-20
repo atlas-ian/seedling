@@ -1,2 +1,2 @@
 # seedling
-Seedling - Plant a note🌱, harvest insights
+Seedling - Plant a note🌱, harvest insights.
