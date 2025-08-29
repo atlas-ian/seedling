@@ -1,2 +1,2 @@
 # seedling
-Seedling - Plant a note🌱, harvest insights.
+Seedling - Javascript and React components🌱, harvest insights.
